@@ -13,7 +13,11 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 * 🤝  I'm open to collaborating on Other Kotlin Projects
 * ⚡  Now I'm looking for an internship
 
-![image](https://github.com/sachasa/sachasa/assets/111067086/71d49b46-95f1-4517-ae9f-ad3e8982289b)
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 ### Skills
