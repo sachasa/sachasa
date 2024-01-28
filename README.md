@@ -79,9 +79,11 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 
 <a href="http://www.github.com/sachasa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachasa&stroke=22c55e&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=22c55e&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="http://www.github.com/sachasa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachasa&bg_color=0f172a&color=22c55e&line=f97316&point=22c55e&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sachasa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachasa&bg_color=0f172a&color=22c55e&line=f97316&point=22c55e&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"> 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 
 <a href="https://github.com/sachasa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachasa&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <b>Top Repositories</b>
 
