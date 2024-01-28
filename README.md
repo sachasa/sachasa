@@ -28,7 +28,11 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 
 
 
-<h3 align="left">Connect with me:</h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 <p align="left">
 <a href="https://codepen.io/sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachasa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sasika-chandila-7aaa86294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasika-chandila-7aaa86294/" height="30" width="40" /></a>
