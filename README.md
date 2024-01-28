@@ -65,6 +65,18 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 [![An image of @sachasa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachasa)](https://holopin.io/@sachasa)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sachasa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+	
+</details>
+	
 
 
 
