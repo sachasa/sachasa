@@ -63,7 +63,7 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 
 ### Badges
 [![An image of @sachasa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachasa)](https://holopin.io/@sachasa)
-https://learn.microsoft.com/api/achievements/share/en-us/SAKALAWALLISASC-4231/3XT7FXRH?sharingId=D8E49FAE2ECBEDB8
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sachasa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
