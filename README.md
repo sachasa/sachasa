@@ -50,14 +50,13 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 <a href="https://hashnode.com/@sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sachasa" height="30" width="40" /></a>
 <a href="https://medium.com/@sasikachnadila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sasikachnadila" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sasikachandila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sasikachandila" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sasikachandila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sasikachandila" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sasikachandila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sasikachandila" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sachasa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sasikachnadila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sasikachnadila" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sachasa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sasikachsprl/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sasikachsprl/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sachasa" height="30" width="40" /></a>
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachasa&label=Profile%20views&color=0e75b6&style=flat" alt="sachasa" /> </p>
 
