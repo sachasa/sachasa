@@ -34,11 +34,11 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 align="left">Connect with me:</h3>
+    <summary<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachasa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sasika-chandila-7aaa86294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasika-chandila-7aaa86294/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sasika-chandila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sasika-chandila" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23300979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23300979" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sachasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sachasa" height="30" width="40" /></a>
 <a href="https://kaggle.com/sasikachandila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sasikachandila" height="30" width="40" /></a>
 <a href="https://fb.com/sasika chandila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasika chandila" height="30" width="40" /></a>
