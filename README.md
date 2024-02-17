@@ -16,7 +16,11 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 * 🧠  I'm learning React.js, Java, Kotlin
 * 🤝  I'm open to collaborating on Other Kotlin Projects
 * ⚡  Now I'm looking for an internship
-
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
