@@ -17,6 +17,12 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 * 🤝  I'm open to collaborating on Other Kotlin Projects
 * ⚡  Now I'm looking for an internship
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
