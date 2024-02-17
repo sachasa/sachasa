@@ -17,7 +17,7 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 * 🤝  I'm open to collaborating on Other Kotlin Projects
 * ⚡  Now I'm looking for an internship
 
-##<div id="user-content-toc">
+<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
