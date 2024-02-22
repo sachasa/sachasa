@@ -72,8 +72,6 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 	
 
 
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <a href="http://www.github.com/sachasa"><img src="https://github-readme-stats.vercel.app/api?username=sachasa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=22c55e&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="sachasa's GitHub stats" /></a>
