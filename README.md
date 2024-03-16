@@ -83,6 +83,12 @@ An enthusiastic undergraduate pursuing a degree in Software Engineering.
 
 <a href="https://github.com/sachasa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachasa&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+- GitHub Sponsor
++ Public Sponsor
+
+- Mars 2020 Helicopter Contributor
++ Mars 2020 Contributor
+
 
 <b>Top Repositories</b>
 
