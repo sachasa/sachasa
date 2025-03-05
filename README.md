@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Sasika Chandila 
 =======================================================================================================================================
 
-Undergraduate Software Engineer at National Institute of Business Management colombo 
+Undergraduate software Engineer at National Institute of Business Management colombo 07
 
 
 -------------------------------
@@ -10,7 +10,7 @@ Undergraduate Software Engineer at National Institute of Business Management col
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-An enthusiastic undergraduate pursuing a degree in Software Engineering.
+ enthusiastic undergraduate pursuing a degree in Software Engineering.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sasikachandila@gmail.com](mailto:sasikachandila@gmail.com)
